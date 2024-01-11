@@ -20,7 +20,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-#define MENU_ITEMS_COUNT 56
+#define MENU_ITEMS_COUNT 51
 
 enum {
 	MENU_SQL		= 0,
